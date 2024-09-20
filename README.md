@@ -1,4 +1,4 @@
-# AI Facts Discord Bot
+# MindMosaic | AI Facts Discord Bot
 ![Screenshot of the bot](https://github.com/CoderRony955/MindMosaic-Bot/blob/master/bot-imgs/MindMosaic.jpg)
 A simple Discord bot that shares random new AI facts every time it's called. This bot provides users with up-to-date insights about the latest AI developments, advancements, and trends.
 
