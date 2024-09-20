@@ -21,7 +21,7 @@ The bot listens for specific commands in your Discord server and responds with a
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/CoderRony955/ai-facts-bot.git
+    git clone https://github.com/CoderRony955/MindMosaic-Bot.git
     ```
 
 2. **Install the required dependencies**:
